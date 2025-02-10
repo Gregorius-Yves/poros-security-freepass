@@ -25,10 +25,10 @@ Kegagalan untuk menuruti peraturan diatas akan ada konsekuensi.
 ## Reference
 Biasakan diri dengan platform tersebut. Cari referensi mengenai istilah berikut,
   - Wargames
-	- CTF in Cyber Security
-	- Jeopardy CTF
-	- CTF Documentation
-	- CTF Write-up
+  - CTF in Cyber Security
+  - Jeopardy CTF
+  - CTF Documentation
+  - CTF Write-up
 
 Pelajari dasar-dasar dari materi di kategori berikut,
 	- Dasar Logika
