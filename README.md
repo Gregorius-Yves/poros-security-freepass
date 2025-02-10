@@ -39,9 +39,9 @@ Pelajari dasar-dasar dari materi di kategori berikut,
 	- Binary Exploitation
 
  ## Deadline
- Start: 11 Februari 2025, 20:00
- Scoreboard Freeze: 17 Februari 2025, 18:00 
- End of Writeup Submission: 17 Februari 2025, 20:00
+ - Start: 11 Februari 2025, 20:00
+ - Scoreboard Freeze: 17 Februari 2025, 18:00 
+ - End of Writeup Submission: 17 Februari 2025, 20:00
  
  ## Contact
  Contact kami jika ada kendala.
