@@ -1,7 +1,7 @@
 # 🚩 Poros Security Freepass 2025 🚩
 ### Your chance to become incredible.
 
-# Free Pass akan dimulai Jam 20:00 pada Tanggal Februari 10 2025
+### Free Pass akan dimulai Jam 20:00 pada Tanggal Februari 10 2025
 
 ## Task
 1. Gunakan VPN UB jika mengakses platform CTF tanpa berhubung dengan WIFI-UBX, tata cara instalasi VPN UB sebagai [berikut](https://bits.ub.ac.id/katalog-layanan/layanan-komunikasi/vpn-ub/)
