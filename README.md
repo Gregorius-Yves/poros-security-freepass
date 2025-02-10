@@ -1,7 +1,7 @@
 ![logo](Green_butterfly_on_green.jpg)
 
 # 🚩 Poros Security Freepass 2025 🚩
-### Your chance to become incredible.
+### Turn the key to a world untold.
 
 ### Free Pass akan dimulai Jam 20:00 pada Tanggal Februari 10 2025
 
