@@ -14,7 +14,7 @@
 	- Jelaskan secara jelas dan lengkap langkah-langkah dan script/program - yang anda gunakan untuk menyelsesaikan challange-challenge yang diberikan.
 	- Tidak diperbolehkan untuk hanya memberikan script. Peserta tidak akan diwawancarai apabila hanya memberikan script.
 5. Adapun beberapa peraturan pengerjaan free pass:
-  - Dilarang untuk melakukan Bruteforce pada soal yang tidak membutuhkan Bruteforce.
+  - Dilarang untuk melakukan Brute Force terhadap flag submission. 
   - Tidak boleh mengirim request terlalu banyak terhadap server atau melakukan eksploitasi pada platform CTF.
   - Penggunaan alat automasi seperti John Hammond's Katana tidak diperbolehkan.
 Kegagalan untuk menuruti peraturan diatas akan ada konsekuensi.
