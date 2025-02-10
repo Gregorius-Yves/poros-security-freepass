@@ -17,7 +17,7 @@
   - Dilarang untuk melakukan Bruteforce pada soal yang tidak membutuhkan Bruteforce.
   - Tidak boleh mengirim request terlalu banyak terhadap server atau melakukan eksploitasi pada platform CTF.
   - Penggunaan alat automasi seperti John Hammond's Katana tidak diperbolehkan.
-Gagal untuk menuruti peraturan diatas akan ada konsekuensi.
+Kegagalan untuk menuruti peraturan diatas akan ada konsekuensi.
 6. Kumpulkan Writeup selambat lambatnya 17 Februari 2025 pukul 23.59 ke Google forms [berikut](https://docs.google.com/forms/d/e/1FAIpQLSeZU4DrV01juO9oDzWWPG3kuGUlkqQrASoOMLFxsrQ215cypA/viewform?usp=dialog).
 7. Pilih waktu dan tanggal wawancara sesuai yang tersedia di google form.
 
