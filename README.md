@@ -3,7 +3,6 @@
 # 🚩 Poros Security Freepass 2025 🚩
 ### Turn the key to a world untold.
 
-### Free Pass akan dimulai Jam 20:00 pada Tanggal Februari 10 2025
 
 ## Task
 1. Gunakan VPN UB jika mengakses platform CTF tanpa berhubung dengan WIFI-UBX, tata cara instalasi VPN UB sebagai [berikut](https://bits.ub.ac.id/katalog-layanan/layanan-komunikasi/vpn-ub/)
@@ -39,6 +38,11 @@ Pelajari dasar-dasar dari materi di kategori berikut,
 	- Web Exploitation
 	- Binary Exploitation
 
+ ## Deadline
+ Start: 11 Februari 2025, 20:00
+ Scoreboard Freeze: 17 Februari 2025, 18:00 
+ End of Writeup Submission: 17 Februari 2025, 20:00
+ 
  ## Contact
  Contact kami jika ada kendala.
  | Nama  | Contact |
