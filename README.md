@@ -6,7 +6,7 @@
 
 ## Task
 1. Gunakan VPN UB jika mengakses platform CTF tanpa berhubung dengan WIFI-UBX, tata cara instalasi VPN UB sebagai [berikut](https://bits.ub.ac.id/katalog-layanan/layanan-komunikasi/vpn-ub/)
-2. Buatlah akun pada platform CTF [berikut](http://10.34.4.147), gunakan email ub untuk mendaftar.
+2. Buatlah akun pada platform CTF [berikut](http://10.34.4.150), gunakan email ub untuk mendaftar.
 3. Kerjakan sebanyak mungkin challenge CTF yang diberikan.
 4. Buatlah Writeup dengan ketentuan sebagai berikut:
 	- Format .pdf
